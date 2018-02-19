@@ -14,5 +14,6 @@
 	<classpathentry kind="lib" path="C:/Users/User/Desktop/eclipse/plugins/org.eclipse.ui.workbench_3.103.0.v20120530-1824.jar" sourcepath="C:/Users/User/Desktop/eclipse/plugins/org.eclipse.ui.workbench.source_3.103.0.v20120530-1824.jar"/>
 	<classpathentry kind="lib" path="C:/Users/User/Desktop/eclipse/plugins/com.ibm.icu_4.4.2.v20110823.jar" sourcepath="C:/Users/User/Desktop/eclipse/plugins/com.ibm.icu.source_4.4.2.v20110823.jar"/>
 	<classpathentry kind="lib" path="C:/Users/User/Desktop/eclipse/plugins/org.eclipse.ui.forms_3.5.200.v20120521-2329.jar" sourcepath="C:/Users/User/Desktop/eclipse/plugins/org.eclipse.ui.forms.source_3.5.200.v20120521-2329.jar"/>
+	<classpathentry kind="lib" path="C:/Users/User/Desktop/sqlite-jdbc-3.21.0.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
