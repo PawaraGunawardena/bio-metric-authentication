@@ -28,4 +28,4 @@ Logic behind the Solution:
 		
 		Then calculate the Z value of that average time difference using pre calculated average of signing up time differences, signing up standard deviation.
 		
-		Then need to define the threshold to verify user validity. 
+		Then need to define the threshold to the Z value based on testings and verifying with few users. 
